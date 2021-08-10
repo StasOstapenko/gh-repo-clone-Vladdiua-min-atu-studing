@@ -2,21 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dd8fa33-a625-4a16-b8e9-54e1b805eab6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/coe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coe/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coe2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coe2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/decide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/decide/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/despro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/despro/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dobre/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dobre/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/edge/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egov4ukraine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/egov4ukraine/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coe/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/coe/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coe/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/coe/data2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decide/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/decide/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decide/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/decide/data2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/despro/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/despro/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/despro/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/despro/data2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dobre/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dobre/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dobre/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dobre/data2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/oon/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/osce/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/osce/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/proon/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pulse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pulse/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/skl/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulead/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ulead/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhinky/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/zhinky/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oon/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/oon/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oon/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/oon/data2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osce/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/osce/data2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepros.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skl/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/skl/data2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulead/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ulead/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulead/data2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ulead/data2.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +50,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622106500354</updated>
-      <workItem from="1622106502243" duration="124000" />
+      <workItem from="1622106502243" duration="156000" />
+      <workItem from="1628538801419" duration="1722000" />
     </task>
     <servers />
   </component>
